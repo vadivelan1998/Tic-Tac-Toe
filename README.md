@@ -4,7 +4,7 @@
 
 ### Application Demo -
 
-https://ayushkul.github.io/react-tic-tac-toe
+https://velu-tic-tac-tac.netlify.app/
 
 
 
